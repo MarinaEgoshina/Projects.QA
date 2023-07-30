@@ -17,5 +17,4 @@
  
 4. Написать отчет о результатах тестирования
 
-#### <a href="https://github.com/MarinaEgoshina/Projects.QA/tree/636d9a9a1117599ece42d65f2793bfa911e5343e/project1" rel="nofollow">Мое решение</a>
-
+#### <a href="https://github.com/MarinaEgoshina/Projects.QA/blob/2449f052d30fe1d7282b8b7e16c9b22086bfffe7/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%201%2C%202%20(Web%2C%20REST%20API%2C%20Postman).zip" rel="nofollow">Мое решение</a>
