@@ -17,5 +17,5 @@
  
 4. Написать отчет о результатах тестирования
 
-#### Как решала: project1
+#### <a href="https://github.com/MarinaEgoshina/Projects.QA/tree/636d9a9a1117599ece42d65f2793bfa911e5343e/project1" rel="nofollow">Мое решение</a>
 
