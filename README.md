@@ -18,4 +18,4 @@
 4. Написать отчет о результатах тестирования
 
 #### Как решала: 
-<a href="https://www.notion.so/1-2-Web-REST-API-Postman-bc547c39f2fa4b158d83992770bff252" rel="nofollow">Ссылка на проект</a>
+
