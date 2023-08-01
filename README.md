@@ -56,7 +56,8 @@ https://miro.com/app/board/uXjVPwCI0pE=/?share_link_id=553129969690
     - Чек-лист
         - XML для импорта в sitechco
             
-            [sitechco_dump_checklists_1457843_2023_07_31_00_50_43.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/796f3bf4-2f24-4281-863d-9a98abe880dd/sitechco_dump_checklists_1457843_2023_07_31_00_50_43.zip)
+            [sitechco_dump_checklists_1457843_2023_07_31_00_50_43.zip](https://github.com/MarinaEgoshina/Projects.QA/blob/83934f3f084bcdeb941ff8d73f0589fa02102bad/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/checklists/sitechco_dump_checklists_1457843_2023_07_31_00_50_43.xml)
+          
             
     - Тест кейсы
         - JSON для импорта в qase.io
