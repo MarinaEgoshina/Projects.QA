@@ -11,19 +11,7 @@
 
 **Сайт:** [*Skyeng-teachers*](https://new-teachers.skyeng.ru/)
 
-Изображения тестируемого продукта: 
-
-- Личный кабинет учителя
-    
-    ![Untitled (1).png](https://github.com/MarinaEgoshina/Projects.QA/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/images/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8F.png?raw=true)
-    
-- Расписание для учителя
-    
-    ![Screenshot_1.png](https://github.com/MarinaEgoshina/Projects.QA/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/images/%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5.png?raw=true)
-    
-- Создание личного события для учителя
-    
-    ![Screenshot_2.png](https://github.com/MarinaEgoshina/Projects.QA/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/images/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F.png?raw=true)
+[Изображения тестируемого продукта](https://github.com/MarinaEgoshina/Projects.QA/tree/d1ab9441bbe283c76a864f2a22b6fb3c3d6d92e8/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/images)
 
 
 ## **Что покрываем тестами**
@@ -53,14 +41,14 @@ https://miro.com/app/board/uXjVPwCI0pE=/?share_link_id=553129969690
 **Функциональное/Нефункциональное тестирование:**
 
 1. **Функциональное тестирование:**
-    - Чек-лист
-        - XML для импорта в sitechco
+    - [Чек-лист](https://github.com/MarinaEgoshina/Projects.QA/blob/83934f3f084bcdeb941ff8d73f0589fa02102bad/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/checklists/sitechco_dump_checklists_1457843_2023_07_31_00_50_43.xml) в формате XML для импорта в sitechco
+    - [Тест - кейсы](https://github.com/MarinaEgoshina/Projects.QA/blob/d86c4f9b30ddd1b997584ac8565217232930b31d/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/Test%20Case/KR12-2023-07-30.json) в формате JSON для импорта в qase.io
+2. **Тестирование API**
+    
+   - [API Личное событие ](https://github.com/MarinaEgoshina/Projects.QA/blob/2784bcb88b27745dd9fae8737fb9766a664aa6ec/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%202/API/API%20%D0%9B%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5.postman_collection.json) в формате JSON для импорта в postman
+    
+    - [Скрины для быстрого ознакомления](https://github.com/MarinaEgoshina/Projects.QA/tree/d1ab9441bbe283c76a864f2a22b6fb3c3d6d92e8/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%202/images)
+        
+
             
-            [sitechco_dump_checklists_1457843_2023_07_31_00_50_43.zip](https://github.com/MarinaEgoshina/Projects.QA/blob/83934f3f084bcdeb941ff8d73f0589fa02102bad/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/checklists/sitechco_dump_checklists_1457843_2023_07_31_00_50_43.xml)
-          
-            
-    - Тест кейсы
-        - JSON для импорта в qase.io
-            
-            [KR12-2023-07-30.json](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/218482f3-f8c2-4834-ae56-abd5d54d1be4/KR12-2023-07-30.json)
             
