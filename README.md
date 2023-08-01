@@ -37,12 +37,13 @@
 1. **Функциональное тестирование:**
     - [Чек-лист](https://github.com/MarinaEgoshina/Projects.QA/blob/83934f3f084bcdeb941ff8d73f0589fa02102bad/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/checklists/sitechco_dump_checklists_1457843_2023_07_31_00_50_43.xml) в формате XML для импорта в sitechco
     - [Тест - кейсы](https://github.com/MarinaEgoshina/Projects.QA/blob/d86c4f9b30ddd1b997584ac8565217232930b31d/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/Test%20Case/KR12-2023-07-30.json) в формате JSON для импорта в qase.io
+   
 2. **Тестирование API**
     
    - [API Личное событие ](https://github.com/MarinaEgoshina/Projects.QA/blob/2784bcb88b27745dd9fae8737fb9766a664aa6ec/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%202/API/API%20%D0%9B%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5.postman_collection.json) в формате JSON для импорта в postman
     
     - [Скрины для быстрого ознакомления](https://github.com/MarinaEgoshina/Projects.QA/tree/d1ab9441bbe283c76a864f2a22b6fb3c3d6d92e8/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%202/images)
-        
+      
 3. **Регрессионное тестирование:**
 
     -  [чек-лист](https://github.com/MarinaEgoshina/Projects.QA/blob/6756070bc61ae82505f69fa0415e46519d702aba/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/checklists/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.xml) в формате XML для импорта в sitechco
@@ -50,5 +51,16 @@
 4. **Smoke и Приёмочное тестирование:**
 
    - [тест-кейсы](https://github.com/MarinaEgoshina/Projects.QA/blob/127eb776eb7920acaa8894d1d9abde12ba62bf8b/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/Test%20Case/Smoke%20%D0%B8%20%D0%9F%D1%80%D0%B8%D1%91%D0%BC%D0%BE%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.json) в формате JSON для импорта в qase.io
+   -  [Результаты Test runs](https://github.com/MarinaEgoshina/Projects.QA/blob/cc08b71b28f26bc6b56171b19e3790ae6b7dfce4/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/images/test%20run.png)
             
-    
+5.  [**Тестирование требований**](https://github.com/MarinaEgoshina/Projects.QA/blob/3d814325626627df7a507b97faaff7e9574fb6f1/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9.xlsx) в формате xlsx
+   
+### 5. **Баг - репорты**
+  - [Баг-репорты](https://github.com/MarinaEgoshina/Projects.QA/blob/1386e3aa2b53eb4ef0db4ca87c7af2a186404f4d/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/%D0%91%D0%B0%D0%B3_%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82.html)в формате html для импорта в Jira
+
+### 6. **Отчет по тестированию**
+ - [Отчет по функциональному тестированию](https://github.com/MarinaEgoshina/Projects.QA/blob/331ec8fea3dba7f56eadd3d18bb3207a9e160728/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/checklists/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.pdf)  [Курговая диаграмма](https://github.com/MarinaEgoshina/Projects.QA/blob/f641012fcfc60f6daf0ac2578c2db693f2ed7ccd/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/images/Screenshot_7.png)
+ - [Результаты test runs API](https://github.com/MarinaEgoshina/Projects.QA/blob/65f79423b66f416d36ae2aa7c2ba6c8f117eaa08/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%202/API/test_run.json) в формате JSON для импорта в postman
+ - [Результаты Test runs Smoke и Приёмочного тестирования](https://github.com/MarinaEgoshina/Projects.QA/blob/ed9b874ec6aac426db6d4bc72516e0372b1bde16/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/Test%20Case/Test_run.pdf) [Круговая диаграмма](https://github.com/MarinaEgoshina/Projects.QA/blob/cc08b71b28f26bc6b56171b19e3790ae6b7dfce4/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/images/test%20run.png)
+        
+ 
