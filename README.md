@@ -56,8 +56,7 @@
 5.  [**Тестирование требований**](https://github.com/MarinaEgoshina/Projects.QA/blob/3d814325626627df7a507b97faaff7e9574fb6f1/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9.xlsx) в формате xlsx
    
 ### 5. **Баг - репорты**
-  - [Баг-репорты](https://github.com/MarinaEgoshina/Projects.QA/blob/1386e3aa2b53eb4ef0db4ca87c7af2a186404f4d/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/%D0%91%D0%B0%D0%B3_%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82.html)в формате html для импорта в Jira
-
+  - [Баг-репорты](https://github.com/MarinaEgoshina/Projects.QA/blob/8927ed5af68a4bed139adfed1fa15d8331a8f328/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82.doc)в формате doc. 
 ### 6. **Отчет по тестированию**
  - [Отчет по функциональному тестированию](https://github.com/MarinaEgoshina/Projects.QA/blob/331ec8fea3dba7f56eadd3d18bb3207a9e160728/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/checklists/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.pdf)  [Курговая диаграмма](https://github.com/MarinaEgoshina/Projects.QA/blob/f641012fcfc60f6daf0ac2578c2db693f2ed7ccd/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F1/images/Screenshot_7.png)
  - [Результаты test runs API](https://github.com/MarinaEgoshina/Projects.QA/blob/65f79423b66f416d36ae2aa7c2ba6c8f117eaa08/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%202/API/test_run.json) в формате JSON для импорта в postman
